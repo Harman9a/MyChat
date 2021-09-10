@@ -1,0 +1,46 @@
+:root {
+  --ion-safe-area-top: 20px;
+  --ion-safe-area-bottom: 22px;
+}
+.TabTitle {
+  font-size: 30px;
+  background-color: #5a0490;
+  height: 5rem;
+  padding: 1.5rem 1rem;
+}
+
+.ChatMainDiv {
+  height: 4rem;
+  width: 100%;
+  margin: 1rem;
+  display: flex;
+}
+
+.ChatMainImage {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+}
+
+.ChatMainUsername {
+  font-size: 20px;
+}
+
+.ChatMainLeftDiv {
+  margin: 0 1rem;
+  width: 66%;
+}
+
+.ChatMainMessage {
+  font-size: 15px;
+  color: #ffffffb8;
+}
+
+.myContainer {
+  height: 80vh;
+  margin-top: 2rem;
+}
+
+.fContainer {
+  /* padding: 5px; */
+}
